@@ -1,0 +1,172 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+POSSA
+</name>
+</assembly>
+<members>
+<member name="T:POS.POSDataSet.CREATE_USERDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS.POSDataSet.REGISTATION_FORMDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS.POSDataSet.CREATE_USERRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS.POSDataSet.REGISTATION_FORMRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS.POSDataSet.CREATE_USERRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS.POSDataSet.REGISTATION_FORMRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS.POSDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:POS.POSDataSetTableAdapters.CREATE_USERTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS.POSDataSetTableAdapters.REGISTATION_FORMTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:POS.POSDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(POS.POSDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:POS.POSDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(POS.POSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:POS.POSDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(POS.POSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:POS.POSDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:POS.POSDataSetTableAdapters.TableAdapterManager.UpdateAll(POS.POSDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:POS.POSDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:POS.POSDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:POS.POSDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:POS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:POS.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:POS.My.Resources.Resources.itextsharp">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:POS.My.Resources.Resources.itextsharp_pdfa">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:POS.My.Resources.Resources.itextsharp_xtra">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="T:POS.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:POS.POSDataSet1.CREATE_USERDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS.POSDataSet1.REGISTATION_FORMDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POS.POSDataSet1.CREATE_USERRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS.POSDataSet1.REGISTATION_FORMRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POS.POSDataSet1.CREATE_USERRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS.POSDataSet1.REGISTATION_FORMRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POS.POSDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:POS.POSDataSet1TableAdapters.CREATE_USERTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POS.POSDataSet1TableAdapters.REGISTATION_FORMTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:POS.POSDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(POS.POSDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:POS.POSDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(POS.POSDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:POS.POSDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(POS.POSDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:POS.POSDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:POS.POSDataSet1TableAdapters.TableAdapterManager.UpdateAll(POS.POSDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:POS.POSDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:POS.POSDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:POS.POSDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

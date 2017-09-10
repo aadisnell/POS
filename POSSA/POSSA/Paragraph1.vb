@@ -1,0 +1,4 @@
+﻿
+Class Paragraph
+
+End Class

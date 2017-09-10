@@ -1,0 +1,50 @@
+D:\Vb Project\POS\POS\POS\bin\Debug\POS.exe.config
+D:\Vb Project\POS\POS\POS\obj\Debug\POS.exe
+D:\Vb Project\POS\POS\POS\obj\Debug\POS.xml
+D:\Vb Project\POS\POS\POS\obj\Debug\POS.pdb
+D:\Vb Project\POSSA\POSSA\POSSA\bin\Debug\POS.exe.config
+D:\Vb Project\POSSA\POSSA\POSSA\obj\Debug\POS.exe
+D:\Vb Project\POSSA\POSSA\POSSA\obj\Debug\POS.xml
+D:\Vb Project\POSSA\POSSA\POSSA\obj\Debug\POS.pdb
+D:\Vb Project\POSSA\POSSA\POSSA\bin\Debug\POS.exe.manifest
+D:\Vb Project\POSSA\POSSA\POSSA\bin\Debug\POS.application
+D:\Vb Project\POSSA\POSSA\POSSA\bin\Debug\POS.exe
+D:\Vb Project\POSSA\POSSA\POSSA\bin\Debug\POS.pdb
+D:\Vb Project\POSSA\POSSA\POSSA\bin\Debug\POS.xml
+D:\Vb Project\POSSA\POSSA\POSSA\bin\Debug\itextsharp.dll
+D:\Vb Project\POSSA\POSSA\POSSA\bin\Debug\itextsharp.pdfa.dll
+D:\Vb Project\POSSA\POSSA\POSSA\bin\Debug\itextsharp.xtra.dll
+D:\Vb Project\POSSA\POSSA\POSSA\bin\Debug\itextsharp.xml
+D:\Vb Project\POSSA\POSSA\POSSA\obj\Debug\POSSA.vbprojResolveAssemblyReference.cache
+D:\Vb Project\POSSA\POSSA\POSSA\obj\Debug\POS.CreateUser.resources
+D:\Vb Project\POSSA\POSSA\POSSA\obj\Debug\POS.HomePage.resources
+D:\Vb Project\POSSA\POSSA\POSSA\obj\Debug\POS.Resources.resources
+D:\Vb Project\POSSA\POSSA\POSSA\obj\Debug\POS.RegistrationForm.resources
+D:\Vb Project\POSSA\POSSA\POSSA\obj\Debug\POSSA.vbproj.GenerateResource.Cache
+D:\Vb Project\POSSA\POSSA\POSSA\obj\Debug\POS.exe.manifest
+D:\Vb Project\POSSA\POSSA\POSSA\obj\Debug\POS.application
+D:\Vb Project\POSSA\POSSA\POSSA\obj\Debug\POS.InputBox.resources
+D:\POSSA\POSSA\POSSA\bin\Debug\itextsharp.dll
+D:\POSSA\POSSA\POSSA\bin\Debug\itextsharp.pdfa.dll
+D:\POSSA\POSSA\POSSA\bin\Debug\itextsharp.xtra.dll
+D:\POSSA\POSSA\POSSA\bin\Debug\itextsharp.xml
+D:\POSSA\POSSA\POSSA\obj\Debug\POSSA.vbprojResolveAssemblyReference.cache
+D:\POSSA\POSSA\POSSA\obj\Debug\POS.CreateUser.resources
+D:\POSSA\POSSA\POSSA\obj\Debug\POS.HomePage.resources
+D:\POSSA\POSSA\POSSA\obj\Debug\POS.InputBox.resources
+D:\POSSA\POSSA\POSSA\obj\Debug\POS.Resources.resources
+D:\POSSA\POSSA\POSSA\obj\Debug\POS.RegistrationForm.resources
+D:\POSSA\POSSA\POSSA\obj\Debug\POSSA.vbproj.GenerateResource.Cache
+D:\POSSA\POSSA\POSSA\bin\Debug\POSSA.exe.config
+D:\POSSA\POSSA\POSSA\bin\Debug\POSSA.exe.manifest
+D:\POSSA\POSSA\POSSA\bin\Debug\POSSA.application
+D:\POSSA\POSSA\POSSA\bin\Debug\POSSA.exe
+D:\POSSA\POSSA\POSSA\bin\Debug\POSSA.pdb
+D:\POSSA\POSSA\POSSA\bin\Debug\POSSA.xml
+D:\POSSA\POSSA\POSSA\obj\Debug\POSSA.exe.manifest
+D:\POSSA\POSSA\POSSA\obj\Debug\POSSA.application
+D:\POSSA\POSSA\POSSA\obj\Debug\POSSA.exe
+D:\POSSA\POSSA\POSSA\obj\Debug\POSSA.xml
+D:\POSSA\POSSA\POSSA\obj\Debug\POSSA.pdb
+D:\POSSA\POSSA\POSSA\obj\Debug\POSSA.vbproj.ResolveComReference.cache
+D:\POSSA\POSSA\POSSA\obj\Debug\POS.ABOUT.resources
